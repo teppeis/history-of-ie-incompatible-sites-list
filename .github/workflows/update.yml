@@ -17,9 +17,10 @@ jobs:
         name: Push the latest
         run: |
           DATE=$(date '+%Y-%m-%d')
+          BRANCH=update-${DATE}
           git config --local user.name "GitHub Actions Bot"
           git config --local user.email "github-actions-bot@users.noreply.github.com"
-          git checkout -b "update-${DATE}"
+          git checkout -b "$BRANCH"
           git add v1.xml
           git commit -m "update to the latest on ${DATE}"
-          git push -u origin
+          git push -u origin "$BRANCH"
