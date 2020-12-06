@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="10">
+<site-list version="11">
   <site url="10bet.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -67,6 +67,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="accounts.premierccu.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="activate.pantaya.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="activate.starz.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="actopharma.com">
@@ -1458,6 +1464,9 @@
   <site url="hermo.my">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="heroesofthestorm.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="heroforge.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1921,6 +1930,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="medlake-lis.azurewebsites.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="meet.google.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="meet.indofood.com">
@@ -2484,6 +2496,9 @@
   <site url="palmerbet.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pantaya.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="parishgiving.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2553,6 +2568,9 @@
   <site url="pinkcatgames.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pinterest.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="pioneer.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2572,6 +2590,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="playbeatthat.acura.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="playwarcraft3.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="plimptonhills.com">
@@ -3018,6 +3039,15 @@
   <site url="starbucks.lyrahealth.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="starcraft.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="starcraft2.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="starz.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="stmath.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3190,6 +3220,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="trainstationdental.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="translate.google.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="tresorit.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="trycaviar.com">
