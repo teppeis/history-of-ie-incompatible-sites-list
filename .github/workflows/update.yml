@@ -1,0 +1,18 @@
+name: Update v1.xml
+on: push
+
+jobs:
+  update:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+      - name: Download the latest v1.xml
+        run: curl https://edge.microsoft.com/neededge/v1 > v1.xml
+      - name: Diff
+        run: git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
+        id: diff
+      - if: steps.diff.outputs.DIFF_EXISTS
+        name: Push the latest
+        run: echo "Push!"
