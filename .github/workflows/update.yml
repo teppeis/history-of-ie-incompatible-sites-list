@@ -15,4 +15,9 @@ jobs:
         id: diff
       - if: steps.diff.outputs.DIFF_EXISTS
         name: Push the latest
-        run: echo "Push!"
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          git checkout -b "update-${DATE}"
+          git add v1.xml
+          git commit -m "update to the latest on ${DATE}"
+          git push
