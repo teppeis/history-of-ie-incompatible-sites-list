@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="7">
+<site-list version="10">
   <site url="10bet.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -786,6 +786,9 @@
   <site url="cplc.etw.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="create.kahoot.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="create.resnap.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1231,9 +1234,6 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="fondationlakeshore.ca">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="ford.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ford.es">
@@ -1749,6 +1749,9 @@
   <site url="learning.freecme.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="legendsoflearning.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="lemonaidhealth.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1813,6 +1816,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="login.cm.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="login.i-ready.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="login.leadsquared.com">
@@ -1885,6 +1891,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="marrow.com/edition4">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="maskott.com/education-hardware">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="mauiinvitational.com">
@@ -2029,6 +2038,57 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="msdcme.rievent.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-ae/news/us-election-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-gb/news/us-election-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-my/news/us-election-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-ph/news/us-election-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-sg/news/us-election-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-us/esports">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-us/news/elections-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/en-us/news/local">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/es-es/noticias/elecciones-estados-unidos">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/es-mx/noticias/elecciones-eeuu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/fr-ca/actualites/%c3%89lections-am%c3%a9ricaines-2020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/fr-fr/actualit%c3%a9s/pr%c3%a9sidentielle-am%c3%a9ricaine">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/ja-jp/news/%e7%b1%b3%e5%a4%a7%e7%b5%b1%e9%a0%98%e9%81%b82020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/nl-nl/nieuws/verkiezingen-vs">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/pt-pt/noticias/elei%c3%a7%c3%b5es-dos-estados-unidos">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/zh-hk/news/%e7%be%8e%e5%9c%8b%e5%a4%a7%e9%81%b82020">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="msn.com/zh-tw/news/%e7%be%8e%e5%9c%8b%e7%b8%bd%e7%b5%b1%e5%a4%a7%e9%81%b82020">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="msubobcats.com">
@@ -3021,7 +3081,7 @@
   <site url="telecare.keckmedicine.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="telehealth.uofuhealth.org">
+  <site url="telehealthportal.uofuhealth.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tenantcloud.com">
