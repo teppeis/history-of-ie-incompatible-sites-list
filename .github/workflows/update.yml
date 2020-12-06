@@ -1,5 +1,7 @@
 name: Update v1.xml
-on: push
+on:
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   update:
@@ -17,10 +19,11 @@ jobs:
         name: Push the latest
         run: |
           DATE=$(date '+%Y-%m-%d')
-          BRANCH=update-${DATE}
+          # BRANCH=update-${DATE}
+          BRANCH=master
           git config --local user.name "GitHub Actions Bot"
           git config --local user.email "github-actions-bot@users.noreply.github.com"
-          git checkout -b "$BRANCH"
+          # git checkout -b "$BRANCH"
           git add v1.xml
-          git commit -m "update to the latest on ${DATE}"
+          git commit -m "update v1.xml to the latest on ${DATE}"
           git push -u origin "$BRANCH"
