@@ -1,0 +1,11 @@
+# history-of-ie-incompatible-sites-list
+
+Thie repository archives history of https://edge.microsoft.com/neededge/v1.
+The XML is provided by Microsoft to redirect the incompatible sites from IE11 to Chromium Edge.
+
+Details:
+>  [Redirection from Internet Explorer to Microsoft Edge for compatibility with modern web sites \| Microsoft Docs](https://docs.microsoft.com/en-us/deployedge/edge-learnmore-neededge)
+
+## How to work
+
+Check and update `v1.xml` every hour in GitHub Actions.
