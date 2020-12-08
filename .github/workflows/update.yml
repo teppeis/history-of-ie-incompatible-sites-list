@@ -21,9 +21,10 @@ jobs:
           DATE=$(date '+%Y-%m-%d')
           # BRANCH=update-${DATE}
           BRANCH=master
+          VER=$(grep -e '<site-list\s' v1.xml | sed -r 's/.*version="([0-9]+)".*/\1/')
           git config --local user.name "GitHub Actions Bot"
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           # git checkout -b "$BRANCH"
           git add v1.xml
-          git commit -m "update v1.xml to the latest on ${DATE}"
+          git commit -m "Update v1.xml to v${VER} on ${DATE}"
           git push -u origin "$BRANCH"
