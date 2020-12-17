@@ -1,6 +1,6 @@
 # history-of-ie-incompatible-sites-list
 
-Thie repository archives history of https://edge.microsoft.com/neededge/v1.
+This repository archives history of https://edge.microsoft.com/neededge/v1.
 The XML is provided by Microsoft to redirect the incompatible sites from IE11 to Chromium Edge.
 
 Details:
