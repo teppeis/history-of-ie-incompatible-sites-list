@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="18">
+<site-list version="19">
   <site url="10bet.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -114,6 +114,9 @@
   <site url="aftonbladet.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="agar.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="agentportal.hurtigruten.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -121,6 +124,24 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="aidctenders.co.za">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.co.in">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="airbnb.ie">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="airfun-global.com">
@@ -222,6 +243,9 @@
   <site url="app.canopytax.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="app.caseform.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="app.cashflo.io">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -319,6 +343,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.thera-link.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="app.thrivepass.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.tuttovisus.it">
@@ -993,6 +1020,12 @@
   <site url="croydon.pensiondetails.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="csats.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="csats.pizza">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="csurams.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1590,6 +1623,9 @@
   <site url="getpe.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gmpmuseum.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="gn-bank.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1974,6 +2010,9 @@
   <site url="iperalspesaonline.it">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="iqiyi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="istrastream.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2101,6 +2140,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="lagoldeneagles.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="lakelandscape.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="laketreegrowers.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="lasvegasbussales.com">
@@ -2421,6 +2466,9 @@
   <site url="miproject.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="mirail.video">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mirfin.co.za/get-a-quote">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2709,6 +2757,9 @@
   <site url="mysbcx.hhs.gov">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="myscreate.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mytreso.fizen-expert.fr/login">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2722,6 +2773,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nagahori.co.jp/disney">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="navinavi-hoken.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="navysports.com">
@@ -3675,6 +3729,9 @@
   <site url="syokenn.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="szigeti.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="takeafile.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3684,7 +3741,7 @@
   <site url="tax.dol.go.th">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="taxcutter.usmail.google.com">
+  <site url="taxcutter.us">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="teamblind.com">
@@ -3810,6 +3867,9 @@
   <site url="tradebeyond.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="tradera.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tradingstation.fxcm.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3889,6 +3949,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ucsf.edu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="uds.ai">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="uihealth.visitnow.org">
@@ -4140,6 +4203,9 @@
   <site url="wildones.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="willhaben.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="wix.com">
   <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4164,6 +4230,204 @@
   <site url="wvusports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.airbnb.ae">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.am">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.az">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.ba">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.cat">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.cl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.cn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.cr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.id">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.nz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.ve">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.co.za">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ar">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.bo">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.br">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.bz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ec">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ee">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.gt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.hk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.hn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.mt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.my">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ni">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.pa">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.pe">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ph">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.py">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ro">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.sg">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.sv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.tr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.tw">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.ua">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.com.vn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.dk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.gr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.gy">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.hu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.is">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.lv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.me">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.pl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.pt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.rs">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.ru">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnb.si">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.airbnbeventspaces.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.digitalpassport.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4171,6 +4435,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.homedepot.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.lrbeta.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.luxuryretreats.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.mercbank.com">
