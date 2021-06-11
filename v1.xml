@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="37">
+<site-list version="39">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -78,6 +78,9 @@
   <site url="acb.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="acc-linkage.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="acciona.unlimitedlearning.io">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -109,6 +112,15 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="accounts.premierccu.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="acdelco.co.th">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="acdelco.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="acdelcoarabia.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="achievetestprep.com">
@@ -154,6 +166,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="aeonbig.com.my">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="aeroplasaaeropuerto.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="aftenbladet.no">
@@ -219,6 +234,9 @@
   <site url="ajyute.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="akentia.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="akindonet.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -268,6 +286,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="alpha.ngsmedicare.com/ngs_landingpage/">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="alpin.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="altaireyewear.com">
@@ -337,6 +358,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.agorapulse.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="app.alacritylaw.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.and.co">
@@ -543,6 +567,9 @@
   <site url="applychildcaresubsidy.alberta.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="apps.outstem.io">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="appstatesports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -591,6 +618,9 @@
   <site url="ascendantcompliancemanager.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="asiae.co.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="askmrrobot.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -616,6 +646,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="at-talk.line.me">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="atenjp.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="athletics.bethel.edu">
@@ -661,6 +694,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="autodesk.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="autonovachevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="autooverload.com">
@@ -924,6 +960,9 @@
   <site url="biz.hansoku-cloud.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="bizcourier.eu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="blackanddeckerpromotions.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1080,7 +1119,94 @@
   <site url="budgettravel.ie">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="buick.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="buick.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buick.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmc-valledorado.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcacapulco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcaeroplasa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcbelden.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmccadillacmonterrey.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmccdjuarez.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcchihuahua.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcculiacan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcdurango.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcfarrera.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcflosol.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcingenio.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcinterlomas.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcleon.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcmerida.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcoaxaca.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcsaltillo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcsanantonio.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcsanluispotosi.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcsonora.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctabasco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctampico.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctepic.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctijuana.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctollocan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmctorreon.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="buickgmcveracruz.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="buildatrip.ae">
@@ -1134,6 +1260,81 @@
   <site url="ca-ret.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="cadillac.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.lu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillac.ru">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacangar.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacarabia.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacbuickgmcreynosa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillaccanada.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacculiacan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacesmeralda.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillaceurope.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacgrupousa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacjapan.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacmorelia.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacpedregal.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacperegrinalujo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacpremiermotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacsolanaguadalajara.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="cadillacsurmanpolanco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="calendar.google.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1150,6 +1351,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="camnotary.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="campechanabuickgmc.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="campechanachevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="canadagoose.jp">
@@ -1228,6 +1435,18 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="carolinacafeandcatering.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="caronechevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="caronechevroletlastorres.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="caronechevroletmonterrey.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="caronechevroletnogalar.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="carrierenterprise.com">
@@ -1375,6 +1594,519 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="chess.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet-am.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet-ge.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet-universidad.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.az">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ba">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.bg">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.by">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.cl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.co.id">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.co.in">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.co.th">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.co.za">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.ar">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.bo">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.br">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.ec">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.mt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.pe">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.py">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.tr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.uy">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.com.ve">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.dk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ee">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.gr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.hr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.hu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.is">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.lu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.lv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.mk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.pl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.pt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ro">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.rs">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.ru">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.si">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolet.sk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletacapulco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletacuna.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletaguinaco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletamericasmotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletanzures.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletapizaco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletarabia.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletaragon.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletautocam.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletautoideal.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletautomotrizcelaya.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletautosss.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletazcapotzalco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletbajiomotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletbalderrama.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcajeme.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcalidadsanjeronimo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcampestrecdmx.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcaribemotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcaronetlalpan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcdcarmen.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcelayacentro.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcoacalco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcordoba.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcrucesdetabasco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletcuautla.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletculiacanmotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletdelcaribe.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletdelparque.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletdelrio.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletdelta.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroleteltrebolchalco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroleteltrebolermita.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroleteltrebolixtapaluca.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroleteltrebolzaragoza.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroleteurope.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletexcelenciacuajimalpa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletexcelenciahidalgo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletexcelencianorte.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletfarrera.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletgalerias.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletgmmotriz.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletgruverautos.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletguasave.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletherreraags.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletherreramotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolethidalgo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolethuasteca.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolethuauchinango.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletiguala.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletindustrial.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletinsurgentes.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletirapuato.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletistmo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletiztacalco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletjapan.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletjilotepec.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletlapaz.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletlapiedad.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletlaredo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletlasilla.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletlosmochis.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmante.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmatamoros.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmazatlan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmd.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmercantilmonclova.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmexicali.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmilenio.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletminatitlan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmontoto.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletmotoresdemorelia.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletnavojoa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletnuevocasasgrandes.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletoaxaca.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletpasiongustavobaz.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletpedregal.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletperegrinaangelopolis.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletperegrinapuebla.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletperegrinasanmartin.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletpozarica.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletqueretaromotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletramos.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletreynosa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletriogrande.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletriosonora.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletriverolindavista.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsalamanca.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsaltillo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsanjuandelrio.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsatelite.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsolana.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsolanacolima.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsurmanecatepec.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletsurmanlaguna.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettabasquena.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettampicosales.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettaxquena.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettec.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettepepan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettepic.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettexcoco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettijuana.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettlahuac.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettlalnepantla.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettollocan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettoro.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevrolettreboltexcoco.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletunicars.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletvalledorado.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletvallejo.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletvictoriamotors.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletxalapa.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletyucatan.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevroletze.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chevysancarloschevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="chicagohistory.org">
@@ -1530,6 +2262,9 @@
   <site url="coinex.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="colegiopoliedro.com.br">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="collage.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1641,9 +2376,6 @@
   <site url="corsair.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="cortechne.jp">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
   <site url="costmanager.buildsupply.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1716,6 +2448,9 @@
   <site url="ctaimalegal.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="cursopoliedro.com.br">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="cuse.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1774,6 +2509,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="daily.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="dalsachevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="dashboard.askattest.com">
@@ -1914,6 +2652,9 @@
   <site url="devices.webex.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="dffinc.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="diabetes.shop">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1933,6 +2674,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="diaper-bois.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="diautoschevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="digiasa.co.jp">
@@ -2184,6 +2928,9 @@
   <site url="elal.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="elchika.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="elearn.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2197,6 +2944,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="elektromobilita.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="elephantcs.nl">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="elevatemaps.io">
@@ -2221,6 +2971,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="emis.g1sw.ru">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="emma.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="emmys.com">
@@ -2397,7 +3150,13 @@
   <site url="faire.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="famechevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="familycards.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="fanmurim.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="faq.ahamo.com">
@@ -2410,6 +3169,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="fargerike.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="fastaid.thebase.in">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="fastclass.com">
@@ -2544,6 +3306,9 @@
   <site url="floriangyger.ch">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="flosolchevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="flytoday.ir">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2581,6 +3346,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="forgeglobal.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="forms.outstem.io">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="forsikring-bedrift.sparebank1.no">
@@ -2724,6 +3492,9 @@
   <site url="geniebook.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="genuinegmparts.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="georgefm.co.nz">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2775,13 +3546,37 @@
   <site url="gloriacards.nl">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gmc.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmc.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmcarabia.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmccanada.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmcertified.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="gmfdealersource.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="gmfdealersource.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gmfleet.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmfleet.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="gmpmuseum.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="gmspecialtyvehicles.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="gmx.net">
@@ -3066,6 +3861,9 @@
   <site url="herdzone.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="herkitchenseattle.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="hermo.my">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3133,6 +3931,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hokiesports.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="holden.co.nz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="holden.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="home.bargains">
@@ -3522,6 +4326,9 @@
   <site url="interhome.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="interlomaschevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="internet.shaw.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3562,6 +4369,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="istrastream.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="isuzu.co.nz">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="isync.online">
@@ -3912,6 +4722,9 @@
   <site url="kickboardforteachers.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="kicker.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kickflow.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3940,6 +4753,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kk-cis.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="klg-kp.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="klos-farben.de">
@@ -4027,6 +4843,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ks-entry.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="ks-lead.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kstatesports.com">
@@ -4143,6 +4962,9 @@
   <site url="lensabl.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="lensescy.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="leon.focusschoolsoftware.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4233,6 +5055,9 @@
   <site url="lipsia.digital">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="live.asset-force.com/smflretailguest">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="live.bankingtransformationweek.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4243,6 +5068,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="livehire.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="livingfreshmarket.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="lk.open-broker.ru">
@@ -5154,6 +5982,12 @@
   <site url="mycardsrouwkaarten.nl">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="mycertifiedservice.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="mycertifiedservice.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="myemobile.firstdakota.co">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5248,6 +6082,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="namu.wiki">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="naosabuickgmc.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="naosachevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nappycare.co.za">
@@ -5436,6 +6276,9 @@
   <site url="nuento.dk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="nuevachevroletpasionautomotriz.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="nukunuku-hair.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5563,6 +6406,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ooc.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="opelservice-russia.ru">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="open.meet.switch.ch">
@@ -5712,6 +6558,9 @@
   <site url="parksideinc.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="parralchevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="partnerportal.ionos.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5835,6 +6684,9 @@
   <site url="pinkcatgames.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pinkcube.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="pinnacleeducation.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5907,6 +6759,9 @@
   <site url="pointhacks.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="poliedroeducacao.com.br">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="pontec-koempf.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5964,6 +6819,9 @@
   <site url="premier.one">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="premierchevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="premiumbeat.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6004,6 +6862,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="pro-vetrniky.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="prochevrolet.com.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="prod.engine4.io">
@@ -6408,6 +7269,9 @@
   <site url="sarwa.co">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="sasklander.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="sc-conseils-expertise.fizen-expert.fr/login">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6600,6 +7464,9 @@
   <site url="sigma-global.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="simple990.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="simplepractice.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6607,6 +7474,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sis2.cat.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="sistemapoliedro.com.br">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="site-1-chucky.promoteapp.net">
@@ -6936,6 +7806,12 @@
   <site url="sunmet.magus.events">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="superautoschevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="superautossilao.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="superuser.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7144,6 +8020,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="theciaa.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="thegeneration.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="theirby.com">
@@ -7377,6 +8256,9 @@
   <site url="total-marriage.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="totalbrokerage.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tottemo.style">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7512,6 +8394,9 @@
   <site url="twinkleintime.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="twitch.tv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="twitter.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7537,6 +8422,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="uceusa.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="uchi-navi.tobugas.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="uclabruins.com">
@@ -7606,6 +8494,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="usctrojans.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="usedboots.hu">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="user.bell-face.com">
@@ -7956,6 +8847,9 @@
   <site url="wolff-finnhaus-shop.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="womensbest.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="woolrich.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8298,6 +9192,9 @@
   <site url="www.gevcen.be">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.gintarine.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.hagmyren.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8326,6 +9223,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.humantravel.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.inspirethenext.com/corporate/iwm/en">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.jagersro.se">
@@ -8385,6 +9285,9 @@
   <site url="www.nctm.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.nvaistine.l">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.okishokyo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8407,6 +9310,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.pall.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.peopleschoice.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.plant-ing.de">
