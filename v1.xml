@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="47">
+<site-list version="48">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -847,6 +847,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="azumahouse.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="azure.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="b-o-l-d.jp">
@@ -2808,6 +2811,9 @@
   <site url="decolar.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="deep-space.blue">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="degrees.snhu.edu">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2887,6 +2893,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="devapp.boarddecisions.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="developer.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="developers.my.games">
@@ -3012,7 +3021,13 @@
   <site url="docomap.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="docs.azure.cn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="docs.google.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="docs.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="doctors.directremedy.com">
@@ -5667,6 +5682,9 @@
   <site url="kstatesports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ktcnet.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kulma21.fi">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7899,6 +7917,9 @@
   <site url="pos.adityabirlasunlifeinsurance.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="powerplace.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="powersystemstoday.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8064,6 +8085,9 @@
   <site url="qbfood.com.sg">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="qbhouse.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="qiagen.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8164,6 +8188,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="rcf.econta.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="rd.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="readingiq.com">
@@ -8880,6 +8907,9 @@
   <site url="specialtycropeq.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="spectrum.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="spectrum.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8926,9 +8956,6 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="staffawards.northumbria.nhs.uk">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="stage.avachoices.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="stageagent.com">
@@ -8983,6 +9010,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="starcraft2.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="startups.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="starz.com">
@@ -11035,6 +11065,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www5.tokai-corp.com/tokai-web">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="wynnbet.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="wyzant.com">
