@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="58">
+<site-list version="59">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8299,9 +8299,6 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nb-reinsurance.com">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="nb.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nbc-corp.co.jp">
