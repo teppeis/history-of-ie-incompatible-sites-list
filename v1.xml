@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="65">
+<site-list version="66">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8617,6 +8617,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kairiss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kakeai.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kakuyomu.jp">
