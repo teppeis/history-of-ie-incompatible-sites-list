@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="69">
+<site-list version="70">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -30,6 +30,9 @@
   <site url="1st-net.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="220.lv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="221616.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -51,6 +54,9 @@
   <site url="360accesstest2.omig.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="365talents.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="3dgeography.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -64,6 +70,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="4game.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="500affiliates.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="5meilleursvpn.fr">
@@ -97,6 +106,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="abhaishop.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="about.hyatt.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="abritel.fr">
@@ -145,6 +157,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="accounts.essexbank.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="accounts.gnu.ac.kr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="accounts.greenvillefcu.com">
@@ -264,6 +279,9 @@
   <site url="ahamo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ahoramurcia.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="ahus.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -318,6 +336,9 @@
   <site url="airvilless.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ais.gnu.ac.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="aitkenvaless.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -331,6 +352,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="akindonet.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="akipilates.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="akomeya.jp">
@@ -570,6 +594,9 @@
   <site url="anateklabs.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ancerra.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="and-engineer.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -625,6 +652,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="apeaotc.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="api.gnu.ac.kr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app-recruteur.hellowork.com">
@@ -831,6 +861,12 @@
   <site url="app.tuttovisus.it">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="app.uptrends.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="app.uptrendsinfra.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="app.vcrm.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1030,6 +1066,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="astradirect-versicherung.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="asyou.adjuvant.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="at-talk.line.me">
@@ -1254,6 +1293,9 @@
   <site url="azumahouse.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="azumazushi.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="azure.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1294,6 +1336,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="bagn.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="baigie.me">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="bajoolss.eq.edu.au">
@@ -1344,6 +1389,9 @@
   <site url="bankofmarionva.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="bankonbrian.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="banksiabeachss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -1369,6 +1417,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="barclays.platform.tumelo.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="barcodefactory.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="bardonss.eq.edu.au">
@@ -1761,6 +1812,9 @@
   <site url="biz.its-mo.com/biz">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="biz.rainhail.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="bizapore.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2061,6 +2115,9 @@
   <site url="boysofeurope.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="bpa.levrx.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="bpsoftware.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2122,6 +2179,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="brightwaterss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="brilliantinsights.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="brilliantpala.in">
@@ -2488,6 +2548,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="bymounteastss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="byoinnavi.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="byu.edu">
@@ -2871,6 +2934,9 @@
   <site url="caymanchem.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="cbc.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="cboe.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3034,6 +3100,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="charterstowersshs.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chartselect.fugawi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="chartselect.humminbird.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="chase.com">
@@ -3645,6 +3717,9 @@
   <site url="chromeexperiments.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="chubbagribusiness.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="churchillss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3685,6 +3760,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="claress.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="clarionbrand.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="clarionhg.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="clark.app">
@@ -4044,6 +4125,9 @@
   <site url="connect.vuforia.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="connext.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="conondaless.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4189,6 +4273,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="counter-em.vnpost.vn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="covarity.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="coverpath.com">
@@ -4353,6 +4440,9 @@
   <site url="cursopoliedro.com.br">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="curtin.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="cuse.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4503,6 +4593,9 @@
   <site url="das-richtige-fenster.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="dash.med.app">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="dashboard.askattest.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4638,6 +4731,9 @@
   <site url="demo.bigbluebutton.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="demo.rainhail.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="demo.weborder.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4699,6 +4795,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="dev-vl.cat.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="dev-www-rebuild.honda.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="dev-yellowstone.csp-digital.com">
@@ -4848,6 +4947,9 @@
   <site url="dirranbandiss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="discountoptiondata.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="discover.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4939,6 +5041,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="documentation.my.games">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="dognow.at">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="dogpre.com">
@@ -5319,6 +5424,9 @@
   <site url="elchika.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="elcom-cr.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="elearn.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5424,10 +5532,19 @@
   <site url="enablement.sparkademy.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="enactmi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="encyclo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ender.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="energy-with.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="engage-wellbeing.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="engage.app">
@@ -5874,6 +5991,9 @@
   <site url="fernygrovess.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="fes.shintairiku.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="festx.co.za">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5940,6 +6060,9 @@
   <site url="finchhattonss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="finder.anothershotgolf.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="finder.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -5962,6 +6085,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="firstee.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="fischer.group">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="fitenisia.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="fitzgeraldss.eq.edu.au">
@@ -6444,6 +6573,9 @@
   <site url="four-thirds.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="four-wood.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="foxbms.lu">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6738,6 +6870,9 @@
   <site url="gainsboroughss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gainsgt.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="galleries.studio27photo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6873,6 +7008,9 @@
   <site url="georgiadogs.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="geotiefwien.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="gesa.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -6883,6 +7021,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="gesainvestments.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="getabstract.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="getawaytoday.com">
@@ -7140,6 +7281,9 @@
   <site url="gooburrumss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="good-on.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="goodfoodnl.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7356,6 +7500,9 @@
   <site url="grosmontss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="ground-estate.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="groundstogrowon.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7378,6 +7525,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="guestlist.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="guidingtechnologies.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="gulugubass.eq.edu.au">
@@ -7425,6 +7575,9 @@
   <site url="gymshark.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gyumo.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="h-9068.educnat-ensemble.scaleway.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7443,7 +7596,13 @@
   <site url="haigsleass.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="hajime-kensetsu.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="hakatours.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="haku.valtiolle.fi">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hal-fudousan.co.jp">
@@ -7453,6 +7612,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="halliganbottleopeners.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="hamamatsu-1129.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="hamamatsu-hinokuni.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hambledonss.eq.edu.au">
@@ -7489,6 +7654,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hannafordss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="hansapost.ee">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hansgrohe-asia.com">
@@ -7737,7 +7905,13 @@
   <site url="helidonss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="helix.ru">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="hellopool.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="help.hyatt.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="helpdesk.sonaro.lt">
@@ -7917,6 +8091,9 @@
   <site url="hnt.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="hobbyhall.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="hochanda.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7939,6 +8116,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hollowaysbeacheec.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="home-hightec.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="home.bargains">
@@ -7998,6 +8178,9 @@
   <site url="honka.ru">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="hooaah.io">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="hoopladigital.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8005,6 +8188,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hopkinssports.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="hoplr.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="horihama.co.jp">
@@ -8125,6 +8311,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="hyundai.co.nz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="hyype.space">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="i-ready.com">
@@ -8311,6 +8500,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="inexio.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="infilogs.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="info.skyvisualeditor.com">
@@ -8601,6 +8793,9 @@
   <site url="irvinebankss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="isa-testcenter.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="isabellass.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8611,6 +8806,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="isclms.korea.ac.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="ishibashi-mf.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ishikawa-wh.com">
@@ -8632,6 +8830,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="istrastream.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="isuru-baby.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="isuzu.co.nz">
@@ -8659,6 +8860,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ithacacreekss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="itofuku.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="itslearning.com">
@@ -9147,6 +9351,9 @@
   <site url="kachiterasu.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="kadastralekaart.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kafoodle.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9160,6 +9367,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kairiss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kaitori.buychari.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kakaopiccoma.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kakeai.com">
@@ -9184,6 +9397,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kamiapp.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kamuraseinikuten.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kanafuku.info">
@@ -9234,6 +9450,9 @@
   <site url="kasyu-pig.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="kaup24.ee">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kaverti.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9256,6 +9475,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kcw.kddi.ne.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kdor.ks.gov">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="keckmedicine.org">
@@ -9367,6 +9589,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kimberleyparkss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kimikura.online">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kinchantoec.eq.edu.au">
@@ -9540,6 +9765,9 @@
   <site url="korunka.eu">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="koshii.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kosik.cz">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9603,6 +9831,9 @@
   <site url="kultips.korea.ac.kr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="kulturort-wintringer-kapelle.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="kuluinss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9634,6 +9865,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kwajnetbilling.dyn-intl.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="kyoto-bento.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="kyoto-pontochosakaba.com">
@@ -9720,7 +9954,16 @@
   <site url="latechsports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="latimerhomes.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="laukstein.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="launchpad.able-group.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="launchpad.business.qld.gov.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="laurass.eq.edu.au">
@@ -9774,6 +10017,9 @@
   <site url="leaffilterguards.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="leafland.co.nz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="learnastro.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9793,6 +10039,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="learningseed.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="learnlux.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="lechiquedesign.nl">
@@ -9817,6 +10066,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="leintjes.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="lekkeslaap.co.za">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="lemonaidhealth.com">
@@ -9955,6 +10207,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="linktv.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="linolife.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="linvilless.eq.edu.au">
@@ -10107,6 +10362,9 @@
   <site url="loveinabigworld.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="lovelondonworking.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="lovemagie.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -10182,6 +10440,9 @@
   <site url="m2rina.vercel.app">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="m3clp.m3career.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mabelparkshs.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -10207,6 +10468,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="machinery-trader.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="machinery.hitachizosen.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="machinerytrader.at">
@@ -10521,6 +10785,9 @@
   <site url="maisonspecial.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="maj.law">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="maj.leboncoin.fr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -10633,6 +10900,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="marketing-bonn.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="marketing.nikkei.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="markets.businessinsider.com">
@@ -10839,6 +11109,9 @@
   <site url="meeting.anymeeting.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="meetings.hyatt.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="meetings.ipvideotalk.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -10885,6 +11158,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="meine.enbw.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="meine.wienenergie.at">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="meisenmanneke.nl">
@@ -11040,6 +11316,9 @@
   <site url="mietwagen-check.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="migros-ferien.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mii4u.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -11082,6 +11361,9 @@
   <site url="mimioconnect.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="minato-cosw.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mindenss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -11112,6 +11394,9 @@
   <site url="minnebanken.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="minnehahacounty.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mio-mikuni.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -11134,6 +11419,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="miraniss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="mirasapo-plus.go.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="mirfin.co.za/get-a-quote">
@@ -11661,6 +11949,9 @@
   <site url="my.freedomfirst.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="my.gnu.ac.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="my.greenbeltbank.bank">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -11784,7 +12075,13 @@
   <site url="mycertifiedservice.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="myclarionhousing.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="myemobile.firstdakota.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="myengage360.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="myeschoolhome.com">
@@ -11886,7 +12183,13 @@
   <site url="myzollerservices.com ">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="n-techno.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="n252123.yclients.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="nabis.si">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nadacecez.cz">
@@ -12093,6 +12396,9 @@
   <site url="newmarketss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="newpoke.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="news.blizzard.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12115,6 +12421,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="newworld.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="next.mx">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nexxaprint.com">
@@ -12153,6 +12462,12 @@
   <site url="nhk.eim-cloud.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="nicco.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="nichidenkyo.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="nightowlpapergoods.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12171,6 +12486,9 @@
   <site url="nike.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="nikkei.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="nimo.tv">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12178,6 +12496,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nishitani-ind.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="nisinomiya-kanmiraku.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nissandealer.ca">
@@ -12297,6 +12618,9 @@
   <site url="norvilless.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="nosh.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="notape.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12381,9 +12705,6 @@
   <site url="oase-teichbau.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="oasis.curtin.edu.au">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
   <site url="ob.dcecu.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12409,6 +12730,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ociservices.gov.in">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="odanet.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="oden.kr">
@@ -12445,6 +12769,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="okay.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="okazaki-bentou.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="okbenefits.org">
@@ -12603,6 +12930,9 @@
   <site url="operations.inscape.co.za">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="opti-24.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="optimise-it.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12673,6 +13003,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="osaka-shidashi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="osaka-shidashi.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="osborness.eq.edu.au">
@@ -12756,6 +13089,9 @@
   <site url="padi.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pageflipgallery.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="pageone.ne.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12804,7 +13140,13 @@
   <site url="parishgiving.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="park-direct.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="parkavenuess.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="parkertools.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="parkess.eq.edu.au">
@@ -12842,9 +13184,6 @@
   </site>
   <site url="partnerportal.ionos.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="partners.gonitro.com/wordaddin">
-    <open-in allow-redirect="true">None</open-in>
   </site>
   <site url="partners.interhomeusa.com">
     <open-in allow-redirect="true">MSEdge</open-in>
@@ -13047,6 +13386,9 @@
   <site url="picniccreekss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pigu.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="pillarheights.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13147,6 +13489,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="planetwin365.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="planfred.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="planning-ai.com">
@@ -13263,6 +13608,9 @@
   <site url="portal.freightverify.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="portal.gnu.ac.kr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="portal.immform.phe.gov.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13288,6 +13636,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="portal.stagen.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="portalnotarial.es">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="portcurtisroadss.eq.edu.au">
@@ -13317,7 +13668,13 @@
   <site url="ppr.qed.qld.gov.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="pracuj.sk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="prairiess.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="praxuj.sk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="premier.one">
@@ -13387,6 +13744,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="privacy.plant-ing.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="privatebank.jpmorgan.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="pro-vetrniky.cz">
@@ -13477,6 +13837,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ps-chelsea.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="ps.nikkei.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="psfcu.com">
@@ -13588,6 +13951,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="qspace1digimet.overit.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="qss.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="queensbeachss.eq.edu.au">
@@ -13824,6 +14190,9 @@
   <site url="recruit.senior-job.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="recruit.visma.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="recruiting.able-group.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13935,6 +14304,9 @@
   <site url="repairlab-nara.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="researchapp.hansgrohe.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="reserve.caratt.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13966,6 +14338,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="restday.sk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="restorate.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="retiehe.com">
@@ -14074,6 +14449,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="robinass.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="robotoskunk.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="roboware.ai">
@@ -14247,6 +14625,9 @@
   <site url="saffer.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="saftronics.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="sahmri.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -14254,6 +14635,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sahmriresearch.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="saihatsuyobou.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="saihi.net">
@@ -14317,6 +14701,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sanyolumber.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="sapporo-shidashi.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="saraensiem.nl">
@@ -14514,10 +14901,13 @@
   <site url="seefie.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="seek-consulting.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="seese.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="seikonet.com/seqc">
+  <site url="seikonet.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sekikensetsu.jp">
@@ -14571,6 +14961,9 @@
   <site url="service.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="service.ntt-lifescience.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="service.visasq.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -14589,6 +14982,9 @@
   <site url="seta.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="setaberu.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="sethholdenrichard.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -14605,6 +15001,15 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sevilleroadss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="sew-d.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="sew-q.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="sewscientificservices.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sg-energy.co.jp">
@@ -14745,6 +15150,9 @@
   <site url="sigma-global.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="signal.epic.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="signiant.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -14761,6 +15169,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="simplyk.io">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="singulart.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sinmyouseinikuten.com">
@@ -15009,10 +15420,16 @@
   <site url="sound-cafe.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="soundcloud.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="southbrookcentralss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="southcoastschoolsport.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="southeastwater.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="southjohnstoness.eq.edu.au">
@@ -15267,6 +15684,9 @@
   <site url="starz.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="status.uptrends.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="stbernardss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -15339,6 +15759,9 @@
   <site url="stoneisland.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="store-nagomi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="store.ferrari.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -15385,6 +15808,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sts.pmonline.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="stsnet.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="studio-bitterzoet.nl">
@@ -15591,6 +16017,9 @@
   <site url="syokenn.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="sys.tm">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="sysad.cc/takeout/">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -15645,10 +16074,16 @@
   <site url="taimu-npo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="taiyakan.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tak-dcxi.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="takachiho-muratabi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="takarajimuki.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="takarazuka-anvil.com">
@@ -15697,6 +16132,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tamrookumss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="tanaberecruit.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tanakatool.co.jp">
@@ -15774,6 +16212,9 @@
   <site url="tclcspecs.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="tcspanels.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tcvb-online-seminar2021.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -15807,6 +16248,9 @@
   <site url="teams.microsoft.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="teamup.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tec.fukuoka-u.ac.jp/mono/">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -15817,6 +16261,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="techdefend.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="techlab.q-co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="technologynetworks.com">
@@ -15877,6 +16324,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tenantev.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="tendon-tenjinya.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tengan-kodomoen.jp">
@@ -16212,6 +16662,9 @@
   <site url="tokyo-gakuryoku.metro.tokyo.lg.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="tokyo-kodomo-hp.metro.tokyo.lg.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tolgass.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -16380,6 +16833,9 @@
   <site url="torbanleass.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="torisapo-catalog.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="torquayss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -16417,6 +16873,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tour.ne.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="tourismepourtous.ch">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="townsvillecentralss.eq.edu.au">
@@ -16518,6 +16977,9 @@
   <site url="travelground.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="travelhouse.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="travelko.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -16551,7 +17013,13 @@
   <site url="triad-cafe-session.site">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="trial.rainhail.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="triggnetworks.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="trinity-it1-eshpj.intra-mart.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="trinitybayshs.eq.edu.au">
@@ -16680,6 +17148,9 @@
   <site url="twomiless.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="txtsoda.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tylenol.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -16702,6 +17173,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="uat-americanfunds.broadridge.com/fundweb/index.cfm?fuseaction=login">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="uat.questionnaire-smtrc.jp/login">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="uat.services.xerox.com">
@@ -16839,6 +17313,12 @@
   <site url="uranganshs.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="urbanapes.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="us.castlighthealth.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="usctrojans.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -16893,7 +17373,13 @@
   <site url="uwwsports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="uyeno-group.co.jp/saiyo">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="v2.ioda.caida.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="vacances-migros.ch">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="vacasa.ca">
@@ -17127,6 +17613,9 @@
   <site url="vindr.ai">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="vinelandcity.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="vinos.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17184,6 +17673,12 @@
   <site url="vitavia-onlineshop.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="vivendi.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="vivendi.online">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="vk.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17205,6 +17700,9 @@
   <site url="volunteer.vnatexas.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="vote.autorace.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="vpshs.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17212,6 +17710,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="vre.vicroads.vic.gov.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="vrew.ai">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="vrew.voyagerx.com">
@@ -17328,6 +17829,9 @@
   <site url="wasco-xtra.nl">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="wasshoi.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="watchcom.co.za">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17335,6 +17839,18 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="watchcom.org.za">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.ae">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.bg">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="watchfinder.ch">
@@ -17352,22 +17868,94 @@
   <site url="watchfinder.com.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="watchfinder.cy">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.dk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.ee">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="watchfinder.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.gr">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="watchfinder.hk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="watchfinder.hr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.hu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="watchfinder.ie">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="watchfinder.is">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="watchfinder.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.lu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.lv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.mt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.nz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.pl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.pt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.ro">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.si">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="watchfinder.sk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="waterfordss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="waterfordwestss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="waterlink.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="watsonroadss.eq.edu.au">
@@ -17434,6 +18022,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="webfez.shrinenet.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="webicient.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="webmo.tokyo">
@@ -17646,6 +18237,9 @@
   <site url="wilstonss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="win.bbs-hrcloud.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="windarooss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -17806,6 +18400,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="worktime.soprasteria.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="world.hyatt.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="worldofwarcraft.com">
@@ -17992,6 +18589,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.about.us.hsbc.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.accel-co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.ackermann.ch">
@@ -18453,6 +19053,9 @@
   <site url="www.chatwork.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.cityindex.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.colruyt.be">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -18481,6 +19084,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.dia.doshisha.ac.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.diabeteswhatsnext.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.digicomp.ch">
@@ -18570,6 +19176,9 @@
   <site url="www.ffactory-ff.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.fill.co.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.firmenkunden.hsbc.de  ">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -18580,6 +19189,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.fujielectric.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.fujii-mfg.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.fukushijinzai.jp">
@@ -18834,6 +19446,12 @@
   <site url="www.hiebing.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.hitachi-solutions-east.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.hitachizosen.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.homedepot.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -18847,6 +19465,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.hoshiyama86.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.hostwinds.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.hrc-ri.co.jp">
@@ -18919,6 +19540,15 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.humantravel.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.hyatt.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.ice.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.im.i.hosei.ac.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.inspirethenext.com/corporate/iwm/en">
@@ -19044,6 +19674,9 @@
   <site url="www.milkpoint.com.br/mercado">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.mitako.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.moen.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19092,7 +19725,13 @@
   <site url="www.ngsmedicare.com/ngs_landingpage">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.norges-bank.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.nvaistine.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.nyse.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.okishokyo.com">
@@ -19137,6 +19776,9 @@
   <site url="www.player.bt.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.plus500.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.pony-friend.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19159,6 +19801,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.quelle.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.rainhail.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.rattvikstravet.se">
@@ -19188,6 +19833,9 @@
   <site url="www.spp.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.stuller.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.sundbyholm.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19204,6 +19852,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.theblackcenter.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.theice.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.threedots.jp">
@@ -19246,6 +19897,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.vaggerydstravet.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.verizonconnect.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.verkkolaskut.fi">
@@ -19293,10 +19947,16 @@
   <site url="www.vismaraet.nl">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.vitalliance.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.watercorporation.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.wdb-dp.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.wwdjapan.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.y-koseiren.jp">
@@ -19309,6 +19969,15 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.zinsbaustein.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www01.kurimoto.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www1.ice.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www1.nyse.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www3.eoriginal.ro">
@@ -19426,6 +20095,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="yarwunss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="yawatakensetsu.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ybk.co.jp">
@@ -19560,6 +20232,9 @@
   <site url="yokohama-cowbell.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="yokote-shidashi.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="yoox.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19578,6 +20253,9 @@
   <site url="youlend.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="yourredcar.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="youthentrepreneurs.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19591,6 +20269,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ypoconnect.org">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="yrk.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="yuble-partner.de">
