@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="72">
+<site-list version="73">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -10392,9 +10392,6 @@
   <site url="kr.hsbc.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="kroger.com">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
   <site url="kroot.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13918,9 +13915,6 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="pantaya.com">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="papajohns.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="paperlounge.de">
@@ -20999,6 +20993,9 @@
   </site>
   <site url="www.pall.com">
     <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.papajohns.com">
+	<open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.peopleschoice.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
