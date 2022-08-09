@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="73">
+<site-list version="74">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -2706,6 +2706,9 @@
   <site url="business.kaercher.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="business.tigo.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="businessweekmag.com/preview">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4365,6 +4368,9 @@
   <site url="connect.vuforia.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="connectedwellness.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="connext.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4609,6 +4615,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="crestmeadss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="crisis.yahoo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="criterionpic.com">
@@ -5821,6 +5830,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="emeraldss.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="emg-timeline.yahoo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="emis.g1sw.com">
@@ -7998,6 +8010,9 @@
   <site url="gw.fotor.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="gyao.yahoo.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="gyazo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -9265,6 +9280,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="interlomaschevrolet.com.mx">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="internacional.tigo.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="internet-allstars.de">
@@ -12378,7 +12396,13 @@
   <site url="mourilyanss.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="movies.yahoo.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="mowreyauction.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="mresearchsurveyengine.modernsurvey.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="mrporter.com">
@@ -13312,6 +13336,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="norgebiz.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="norges-bank.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="normanparkss.eq.edu.au">
@@ -18165,6 +18192,9 @@
   <site url="tv.nrk.no">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="tv.yahoo.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="tv1881altdorf.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -18205,6 +18235,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="tyo.invest-all-hokkaido.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="typhoon.yahoo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="typing.com">
@@ -19063,6 +19096,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="wccsports.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="weather-report.yahoo.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="weather.yahoo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="web.de">
@@ -20955,9 +20994,6 @@
   <site url="www.nikkei.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="www.norges-bank.no">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
   <site url="www.nvaistine.lt">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -21265,6 +21301,36 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.threedots.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.bo">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.co">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.gt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.hn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.ni">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.pa">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.py">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.com.sv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigo.cr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.tigomedia.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.tingsrydtravet.com">
@@ -21766,6 +21832,150 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="zakat2u.com.my">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.dk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.pl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.ro">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-lounge.sk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-prive.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-prive.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-prive.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando-prive.pt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.be">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.ch">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.dk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.ee">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.es">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.fi">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.hr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.hu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.ie">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.it">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.lu">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.lv">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.pl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.ro">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.si">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="zalando.sk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="zang.io">
