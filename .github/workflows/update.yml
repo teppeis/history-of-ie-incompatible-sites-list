@@ -2,6 +2,7 @@ name: Update v1.xml
 on:
   schedule:
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -11,7 +12,7 @@ jobs:
       - name: Check out
         uses: actions/checkout@v2
       - name: Download the latest v1.xml
-        run: curl https://edge.microsoft.com/neededge/v1 > v1.xml
+        run: curl -v "https://edge.microsoft.com/neededge/v1?$(date '+%s')" > v1.xml
       - name: Diff
         run: git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
         id: diff
