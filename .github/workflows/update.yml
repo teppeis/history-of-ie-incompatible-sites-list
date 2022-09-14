@@ -24,8 +24,8 @@ jobs:
           # BRANCH=update-${DATE}
           BRANCH=master
           VER=$(grep -e '<site-list\s' v1.xml | sed -r 's/.*version="([0-9]+)".*/\1/')
-          git config --local user.name "GitHub Actions Bot"
-          git config --local user.email "github-actions-bot@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           # git checkout -b "$BRANCH"
           git add v1.xml
           git commit -m "Update v1.xml to v${VER} on ${DATE}"
