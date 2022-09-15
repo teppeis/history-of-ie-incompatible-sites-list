@@ -11,13 +11,26 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Download the latest v1.xml
+      - name: Download and check the latest v1.xml
         run: |
-          curl -H "Cache-Control: no-cache, no-store" -v "https://edge.microsoft.com/neededge/v1?$(date '+%s')" > v1.xml
-      - name: Diff
-        run: git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
+          curl -H "Cache-Control: no-cache, no-store" -v "https://edge.microsoft.com/neededge/v1?a=$(date '+%s')" > v1.xml
+          git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
         id: diff
       - if: steps.diff.outputs.DIFF_EXISTS
+        name: Download and check the latest v1.xml (2)
+        run: |
+          sleep 3
+          curl -H "Cache-Control: no-cache, no-store" -v "https://edge.microsoft.com/neededge/v1?a=$(date '+%s')" > v1.xml
+          git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
+        id: diff2
+      - if: steps.diff2.outputs.DIFF_EXISTS
+        name: Download and check the latest v1.xml (3)
+        run: |
+          sleep 3
+          curl -H "Cache-Control: no-cache, no-store" -v "https://edge.microsoft.com/neededge/v1?a=$(date '+%s')" > v1.xml
+          git diff --exit-code || echo "::set-output name=DIFF_EXISTS::1"
+        id: diff3
+      - if: steps.diff3.outputs.DIFF_EXISTS
         name: Push the latest
         run: |
           DATE=$(date '+%Y-%m-%d')
