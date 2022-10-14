@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="79">
+<site-list version="80">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -895,6 +895,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.rippling.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="app.safarilaw.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.senfi.io">
@@ -6174,6 +6177,9 @@
   <site url="exactix.sunshine811.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="exactrealty.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="exchangemarketplace.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -7051,9 +7057,6 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="fr.swissquote.lu">
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="fr.uline.ca">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="frandroid.com">
@@ -11856,6 +11859,9 @@
   <site url="mediacomtoday.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="mediationimmo.fr">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="medibuddy.in">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13218,6 +13224,9 @@
   <site url="nelsonnet.com.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="neogenomics.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="nerangshs.eq.edu.au">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13933,6 +13942,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="orso.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="os-art.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="osaka-indonesia2022.com">
@@ -15955,6 +15967,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="sec.refapp.se">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="secure-share.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="secure.asos.com">
@@ -18600,6 +18615,9 @@
   <site url="uksbd.co.uk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="uline.ca">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="ultrasoundcases.info">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -18802,6 +18820,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="vbest.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="vector.express">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="veeam.com">
@@ -21958,6 +21979,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="yello.de">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="yellowblox.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="yelp.at">
