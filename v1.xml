@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="84">
+<site-list version="85">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -4209,6 +4209,9 @@
   <site url="cmuchippewas.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="cn.bing.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="cn.swissquote.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -8400,6 +8403,9 @@
   <site url="hansgrohe.sk">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="hao.360.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="happydemics.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12300,6 +12306,9 @@
   <site url="micole.net">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="microsoftedgewelcome.microsoft.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="microworks.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -13756,6 +13765,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="nsinternational.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="ntp.msn.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="ntvg.nl">
@@ -20586,10 +20598,16 @@
   <site url="www.axevalla.se">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.baidu.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.ball.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.bergsaker.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.bing.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.bino.jp">
@@ -21216,6 +21234,9 @@
   <site url="www.hansgrohe.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.hao.123.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.heliopole.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -21534,6 +21555,12 @@
   <site url="www.mpa.tu-bs.de">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.msn.cn">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.msn.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.n-po.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -21544,6 +21571,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.nationaalprogrammagroningen.nl">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.naver.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.navios-acquisition.com">
@@ -22099,6 +22129,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.y-koseiren.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.yahoo.co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.youserve.nl">
