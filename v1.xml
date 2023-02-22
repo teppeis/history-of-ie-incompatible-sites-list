@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="86">
+<site-list version="88">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -14280,7 +14280,7 @@
   <site url="pageproof.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
-  <site url="pages.legal-library.jp/events/221213">
+  <site url="pages.legal-library.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="pagetheusfuneralhome.com">
@@ -16935,6 +16935,9 @@
   <site url="sonesta.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="sonysonpo.co.jp">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="soonersports.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -19044,6 +19047,9 @@
   <site url="uyeno-group.co.jp/saiyo">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="v.qq.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="v2.ioda.caida.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -20373,6 +20379,9 @@
   <site url="www.accel-co.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.ach-solution.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.ackermann.ch">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -20877,6 +20886,15 @@
   <site url="www.columbiacu.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.connexgroup.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.connexloyalty.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.core-smartwork.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.crunchbase.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -21058,6 +21076,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.gintarine.lt">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.gleitbau.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.globalatlantic.com">
@@ -21489,6 +21510,9 @@
   <site url="www.kobelco-machinery-energy.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
+  <site url="www.konrad-carpets.at">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
   <site url="www.koutsujiko.jp">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -21544,6 +21568,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.manchestercentral.co.uk">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="www.manzenreiter.at">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="www.marelli-event.com/quality.forum21">
