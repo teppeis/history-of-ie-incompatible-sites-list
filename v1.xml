@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="88">
+<site-list version="89">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -3331,6 +3331,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="chancellorsc.eq.edu.au">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="change.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="changekon.com">
@@ -9511,6 +9514,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="invencapital.cz">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="inventemr.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="invest.zinsbaustein.de">
