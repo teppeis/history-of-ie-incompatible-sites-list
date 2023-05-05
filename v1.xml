@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="89">
+<site-list version="90">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -12325,6 +12325,12 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="micole.net">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="microsoft.sharepoint.com">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="microsoft.visualstudio.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="microsoftedgewelcome.microsoft.com">
