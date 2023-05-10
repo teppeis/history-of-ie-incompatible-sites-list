@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<site-list version="90">
+<site-list version="91">
   <site url="0rga.org">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
@@ -745,6 +745,9 @@
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.bankid.no">
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="app.bill-one.com">
     <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="app.boardpro.io">
